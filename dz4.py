@@ -57,5 +57,5 @@ def visualize_heap(array):
     draw_tree(root)
 
 # Приклад використання:
-heap_array = [9, 13, 24, 11, 37]
+heap_array = [4, 5, 10, 1, 3]
 visualize_heap(heap_array)
